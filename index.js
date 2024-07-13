@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 const currency = {
     USD: 1, //base currency                                                 */ by this base currency we can easly convert any currency easly, we save alot of time by using this dynamic method now we do not need if else condition for each condition   /*
